@@ -1,0 +1,6 @@
+# Text files are stored and checked out with LF so poem files, checksums and diffs are identical
+# on every platform (including Windows with core.autocrlf=true).
+* text=auto eol=lf
+*.docx binary
+*.pdf binary
+*.png binary
