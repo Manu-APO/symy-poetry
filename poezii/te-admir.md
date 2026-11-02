@@ -2,7 +2,7 @@
 titlu: Te admir!
 tema: [natura, toamna]
 autorul: Simion Toderaș
-data: 01 11 26
+data: 2026-11-01
 sursa: https://www.facebook.com/share/p/1EuiT5hQR8/
 ---
 
