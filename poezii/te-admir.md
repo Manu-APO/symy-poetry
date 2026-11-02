@@ -1,14 +1,14 @@
 ---
-titlu: Te admir !
+titlu: Te admir!
 tema: [natura, toamna]
 ---
 
-Toamnă,frunză ruginie,
+Toamnă, frunză ruginie,
 Și cu soare, printre nori,
 Plină de melancolie,
-Dar bogată,în culori,
+Dar bogată, în culori,
 
-Mă opreşti,ca să privesc,
+Mă oprești, ca să privesc,
 Ce priveliști îmi oferi,
 Un frumos Dumnezeiesc,
 Care nu cere păreri,
@@ -23,7 +23,7 @@ Farmec de culori, aparte
 Parcă-s ale mării valuri,
 Când prin ele, vântul bate,
 
-Te admir,ca pe o doamnă,
+Te admir, ca pe o doamnă,
 Ce își schimbă coafura,
 Și nu uit, frumoasă doamnă,
 Ce frumos, pictezi natura!
